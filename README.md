@@ -25,3 +25,54 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+## Features and Benefits
+
+## Customization
+
+Manually customize the look and feel of your card image title to meet your needs.
+
+## Easy integration
+
+Users can easily integrate other Angular UI components inside the cards to create avatar cards, graph cards, and more.
+
+## Responsive web design
+
+Angular Card component offers much flexibility, allowing it to easily adapt to almost all touch devices.
+
+## Related links
+
+[Learn More about Angular Card](https://www.syncfusion.com/angular-components/angular-card?utm_source=github&utm_medium=listing&utm_campaign=angular-cards-github-samples)
+
+[Download Free Trial](https://www.syncfusion.com/downloads/angular?utm_source=github&utm_medium=listing&utm_campaign=angular-cards-github-samples)
+
+[Pricing](https://www.syncfusion.com/sales/products/angular?utm_source=github&utm_medium=listing&utm_campaign=angular-cards-github-samples)
+
+[Documentation](https://angular.syncfusion.com/documentation/card/getting-started?utm_source=github&utm_medium=listing&utm_campaign=angular-cards-github-samples)
+
+[View Demos](https://angular.syncfusion.com/demos/card/default-functionalities?utm_source=github&utm_medium=listing&utm_campaign=angular-cards-github-samples)
+
+[Community Forums](https://www.syncfusion.com/forums/angular-components?utm_source=github&utm_medium=listing&utm_campaign=angular-cards-github-samples)
+
+[Suggest a feature or report a bug](https://www.syncfusion.com/feedback/angular-components?utm_source=github&utm_medium=listing&utm_campaign=angular-cards-github-samples)
+
+[Online example](https://angular.syncfusion.com/demos/toolbar/default-functionalities?utm_source=github&utm_medium=listing&utm_campaign=angular-cards-github-samples)
+
+[Video Tutorials](https://www.syncfusion.com/tutorial-videos/angular/toolbar?utm_source=github&utm_medium=listing&utm_campaign=angular-cards-github-samples)
+
+[Knowledge base](https://www.syncfusion.com/kb/angular-components?utm_source=github&utm_medium=listing&utm_campaign=angular-cards-github-samples)
+
+## About Syncfusion Angular Components
+The Syncfusion's [Angular components](https://www.syncfusion.com/angular-ui-components?utm_source=github&utm_medium=listing&utm_campaign=angular-cards-github-samples) library offers over 70 UI components to work with Angular server-side and client-side (Angular WebAssembly) projects seamlessly. In addition to Card, we provide popular Angular Components such as [DataGrid](https://www.syncfusion.com/angular-components/angular-grid?utm_source=github&utm_medium=listing&utm_campaign=angular-cards-github-samples),[Charts](https://www.syncfusion.com/angular-components/angular-charts?utm_source=github&utm_medium=listing&utm_campaign=angular-cards-github-samples), [Scheduler](https://www.syncfusion.com/angular-components/angular-scheduler?utm_source=github&utm_medium=listing&utm_campaign=angular-cards-github-samples), [Diagram](https://www.syncfusion.com/angular-components/angular-diagram?utm_source=github&utm_medium=listing&utm_campaign=angular-cards-github-samples) and [Word Processor](https://www.syncfusion.com/angular-components/angular-word-processor?utm_source=github&utm_medium=listing&utm_campaign=angular-cards-github-samples).
+
+### About Syncfusion
+
+Founded in 2001 and headquartered in Research Triangle Park, N.C., Syncfusion has more than 28,000 customers and more than 1 million users, including large financial institutions, Fortune 500 companies, and global IT consultancies.
+ 
+Today, we provide 1700+ components and frameworks for web ([Angular](https://www.syncfusion.com/angular-components?utm_source=github&utm_medium=listing&utm_campaign=angular-cards-github-samples), [ASP.NET Core](https://www.syncfusion.com/aspnet-core-ui-controls?utm_source=github&utm_medium=listing&utm_campaign=angular-cards-github-samples), [ASP.NET MVC](https://www.syncfusion.com/aspnet-mvc-ui-controls?utm_source=github&utm_medium=listing&utm_campaign=angular-cards-github-samples), [ASP.NET WebForms](https://www.syncfusion.com/jquery/aspnet-webforms-ui-controls?utm_source=github&utm_medium=listing&utm_campaign=angular-cards-github-samples), [JavaScript](https://www.syncfusion.com/javascript-ui-controls?utm_source=github&utm_medium=listing&utm_campaign=angular-cards-github-samples), [Angular](https://www.syncfusion.com/angular-ui-components?utm_source=github&utm_medium=listing&utm_campaign=angular-cards-github-samples), [React](https://www.syncfusion.com/react-ui-components?utm_source=github&utm_medium=listing&utm_campaign=angular-cards-github-samples), [Vue](https://www.syncfusion.com/vue-ui-components?utm_source=github&utm_medium=listing&utm_campaign=angular-cards-github-samples), and [Flutter](https://www.syncfusion.com/flutter-widgets?utm_source=github&utm_medium=listing&utm_campaign=angular-cards-github-samples)), mobile ([Xamarin](https://www.syncfusion.com/xamarin-ui-controls?utm_source=github&utm_medium=listing&utm_campaign=angular-cards-github-samples), [Flutter](https://www.syncfusion.com/flutter-widgets?utm_source=github&utm_medium=listing&utm_campaign=angular-cards-github-samples), [UWP](https://www.syncfusion.com/uwp-ui-controls?utm_source=github&utm_medium=listing&utm_campaign=angular-cards-github-samples), [JavaScript](https://www.syncfusion.com/javascript-ui-controls?utm_source=github&utm_medium=listing&utm_campaign=angular-cards-github-samples), and [.NET MAUI](https://www.syncfusion.com/maui-controls?utm_source=github&utm_medium=listing&utm_campaign=angular-cards-github-samples)), and desktop development ([WinForms](https://www.syncfusion.com/winforms-ui-controls?utm_source=github&utm_medium=listing&utm_campaign=angular-cards-github-samples), [WPF](https://www.syncfusion.com/wpf-controls?utm_source=github&utm_medium=listing&utm_campaign=angular-cards-github-samples), [WinUI](https://www.syncfusion.com/winui-controls?utm_source=github&utm_medium=listing&utm_campaign=angular-cards-github-samples), [Flutter](https://www.syncfusion.com/flutter-widgets?utm_source=github&utm_medium=listing&utm_campaign=angular-cards-github-samples), [UWP](https://www.syncfusion.com/uwp-ui-controls?utm_source=github&utm_medium=listing&utm_campaign=angular-cards-github-samples), and [.NET MAUI](https://www.syncfusion.com/maui-controls?utm_source=github&utm_medium=listing&utm_campaign=angular-cards-github-samples)). We provide ready-to-deploy enterprise software for dashboards, reports, data integration, and big data processing. Many customers have saved millions in licensing fees by deploying our software.
+
+<hr style="height:0.3px;border:none;color:lightgrey;background-color:lightgrey;" />
+
+<p align="center">
+<a href="mailto:sales@syncfusion.com?Subject=Syncfusion Angular Card - GitHub" target="_top">sales@syncfusion.com</a> | <a href="https://www.syncfusion.com?utm_source=github&utm_medium=listing&utm_campaign=angular-card-github-samples">www.syncfusion.com</a> | Toll Free: 1-888-9 DOTNET <br>
+</p>
