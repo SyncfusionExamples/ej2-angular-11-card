@@ -30,7 +30,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ### Card UI elements
 
-Cards consist of various UI elements, including headers, sub-headers, images, multimedia, action buttons,and dividers.
+Cards consist of various UI elements, including headers, sub-headers, images, multimedia, [action buttons](https://ej2.syncfusion.com/angular/documentation/card/action-buttons?utm_source=github&utm_medium=listing&utm_campaign=angular-card-github-samples),and dividers.
 
 ### Card types
 
